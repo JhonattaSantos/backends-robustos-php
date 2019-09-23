@@ -4,6 +4,10 @@ composer.phar
 vendor/
 vendor
 
+
+### phpunit ###
+.phpunit.result.cache
+
 ### Node ###
 # Logs
 logs
